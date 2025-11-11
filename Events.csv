@@ -1,0 +1,45 @@
+Month,Event Name,Dates,Location,Primary Focus,Geo Cluster,Meta Tags (Area of Interest)
+January,AAIA SciTech Forum,Jan. 12-16,"Orlando, FL, USA","Aerospace, Science, Technology",NA,Aerospace; Defense; Research; Technology
+February,Military Additive Manufacturing Summit & Technology Showcase,Feb. 3-5,"Tampa, FL, USA",Military Additive Manufacturing & Defense Tech,NA,Additive Manufacturing; Defense; Vertical
+February,MD&M West,Feb. 3-5,"Anaheim, CA, USA",Medical Device Development & Manufacturing,NA,Vertical; Medical; Technology
+February,GlobalChem,Feb. 23-24,"Washington, D.C., USA",Chemical Industry Production,NA,Vertical; Materials; Chemical
+February,Additive Manufacturing Strategies,Feb. 24-26,"New York, NY, USA","AM Business, Market Data, Defense, Workforce",NA,Additive Manufacturing; Strategy; Market Analysis; Workforce; Defense
+March,LogiMAT,March 10 - 12,"Stuttgart, Germany","Logistics, Material Flow, Intralogistics",EU,Logistics; Supply Chain; Automation
+March,IPC Apex Expo,March 13-19,"Anaheim, CA, USA",Electronics Manufacturing (PCBs),NA,Electronics; PCB; Vertical
+March,American Manufacturing Summit,March 17-18,"Chicago, IL, USA","Strategy, Leadership, Operational Excellence",NA,Strategy; Management; Leadership
+March,Aerospace & Defense Supplier Summit,March 17-19,"Seattle, WA, USA",Aerospace & Defense Supply Chain,NA,Aerospace; Defense; Supply Chain
+March,Manufacturing IT/OT Summit USA,March 23-24,"Everett, MA, USA",Smart Manufacturing & Industry 4.0 Integration,NA,Industry 4.0; IT/OT Integration; Smart Factory; Digital Transformation
+April,Automechanika Buenos Aires,April 8 - 11,"Buenos Aires, Argentina","Automotive Parts, Components, Repair",LATAM,Automotive; Components; Machinery; LATAM
+April,Manufacturing World Nagoya,April 8 - 10,"Nagoya, Japan","Design, Components, AM, DX (Regional)",APAC,Asia; Components; Additive Manufacturing; Digital Transformation; Machinery
+April,AeroDef Manufacturing,April 14–16,"Boston, MA, USA",Aerospace and defense manufacturing,NA,Aerospace; Defense; Fabrication; Vertical
+April,RAPID + TCT,April 14–16,"Boston, MA, USA",3D printing and additive manufacturing,NA,Additive Manufacturing; 3D Printing; Materials
+April,INTERMOLD / Die & Mold Asia,April 15 - 17,"Osaka, Japan","Machine Tools, Tooling, Molds, CAD/CAM/CAE",APAC,Asia; Machine Tools; Tooling; CAD/CAM
+April,Hannover Messe,April 20 - 24,"Hannover, Germany","Industrial Technology, Automation, Digitalization (Industry 4.0)",EU,Automation; Industry 4.0; Digital Transformation; Robotics; Strategy
+April,North American Manufacturing Excellence Summit,April 20-22,"Houston, TX, USA",Innovative Strategies for Manufacturing Leadership,NA,Strategy; Leadership; Excellence
+April,IME South,April 22-23,"Charlotte, NC, USA",Manufacturing Expo (Regional),NA,Multi-Sector; Regional
+May,SME FUSION,May 5–6,"Nashville, TN, USA",Workforce development and training strategies,NA,Workforce; Strategy; Management
+May,SelectUSA Investment Summit,May 5-7,"National Harbor, MD, USA","Investment, Manufacturing Policy",NA,Strategy; Policy; Investment
+May,Sensors Converge,May 5-7,"Santa Clara, CA, USA","Sensors, Measurement, IoT",NA,IoT; Measurement; Sensors; Technology
+May,Advanced Semiconductor Manufacturing Conference,May 11-14,"Albany, NY, USA",Semiconductor Fabrication,NA,Vertical; Semiconductor; Fabrication; Technology
+May,Australian Manufacturing Week (AMW),May 12 - 14,"Brisbane, Australia",Multi-Sector Manufacturing,APAC,Multi-Sector; Australia; Technology
+May,FABTECH Mexico,May 12–14,"Mexico City, Mexico","Fabrication, Welding, Finishing",LATAM,Fabrication; Welding; Metalworking; Machinery; LATAM
+June,BIEMH,June 1 - 5,"Bilbao, Spain","Machine Tool, Manufacturing",EU,Machine Tools; Machinery; Metalworking
+June,EPMA Seminars – Powder Metallurgy,June 2 - 3,"Lyon, France","Powder Metallurgy, Advanced Energy Solutions",EU,Materials; Powder Metallurgy; Energy
+June,FABTECH Canada,June 9–11,"Toronto, ON, Canada","Fabrication, Welding, Finishing",NA,Fabrication; Welding; Metalworking; Machinery
+June,HI-AM Conference,June 22 - 23,"Banff, AB, Canada",Holistic Innovation in Additive Manufacturing,NA,Additive Manufacturing; Research; Innovation
+June,Automate,June 22-25,"Chicago, IL, USA","Automation, Robotics, Motion Control",NA,Automation; Robotics; Control Systems; Industry 4.0
+June,CeMAT SOUTHEAST ASIA,June 23-25,"Melbourne, Australia","Logistics, Material Handling",APAC,Logistics; Supply Chain; Australia
+June,Middle East Poultry Expo,June 28 - 30,"Riyadh, Saudi Arabia",Poultry Manufacturing & Supply Chain,MEA,Vertical; Food Processing; Supply Chain; MEA
+July,Manufacturing World Tokyo,July 1–3,"Tokyo Big Sight, Japan","Design, Components, AM, DX, Cybersecurity",APAC,Asia; Components; Additive Manufacturing; Digital Transformation; Cybersecurity
+July,Manufacturing Indaba,July 14 – 15,"Sandton, JHB, South Africa",African Manufacturing Policy and Investment,MEA,Africa; Policy; Investment; Strategy
+August,International Conference on Robotics and Smart Manufacturing (ICROSMA),Aug. 10,"Nairobi, Kenya",Robotics and Smart Manufacturing (Research Focus),MEA,Africa; Robotics; Smart Factory; Research
+September,Powder Metallurgy and Additive Manufacturing of Titanium (PMAMTi),Sept. 2 - 4,"Taipei, Taiwan","Powder Metallurgy, AM (Titanium)",APAC,Additive Manufacturing; Materials; Research; Asia
+September,IMTS 2026 (International Manufacturing Technology Show),Sept. 14–19,"Chicago, IL, USA","Machine Tools, Automation, Digital Transformation",NA,Machine Tools; Automation; Robotics; Digital Transformation; Metalworking
+September,EMO Hannover,Sept 22 - 26,"Hannover, Germany","Smart Manufacturing, Sustainable Engineering, Metalworking",EU,Machine Tools; Metalworking; Smart Factory; Sustainability; Machinery
+October,Manufacturing World Osaka,Oct. 7 - 9,"Osaka, Japan","Design, Components, AM, DX (Regional)",APAC,Asia; Components; Additive Manufacturing; Digital Transformation; Machinery
+October,BI-MU,Oct 8 - 12,"Milano, Italy","Machine Tool, Manufacturing",EU,Machine Tools; Machinery; Metalworking
+October,China International Industry Fair (CIIF),Oct. 12–16,"Shanghai, China","Automation, IT, Machinery, Equipment",APAC,Asia; Automation; Machinery; IT/Digital; High Volume Production
+October,FABTECH USA,Oct. 21–23,"Las Vegas, NV, USA","Fabrication, Welding, Finishing",NA,Fabrication; Welding; Metalworking; Machinery
+October,EuroShop Middle East,Oct. 26 - 28,"Dubai, U.A.E.","Retail Technology, Store Design, Refrigeration",MEA,Retail; Logistics; Technology; MEA; Vertical
+November,SPS (Smart Production Solutions),Nov. 10 - 12,"Nuremberg, Germany","Smart Production Solutions, Digitalization",EU,Smart Factory; Digital Transformation; Automation; Industry 4.0
+November,ISM 2026,Nov. 10-14,TBD (Global/Virtual),Smart Manufacturing (Research),Global/Research,Industry 4.0; Smart Factory; Research
