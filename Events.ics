@@ -1,0 +1,448 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CSV to Calendar Converter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manufacturing Events 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:event-1@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:AAIA SciTech Forum
+LOCATION:Orlando, FL, USA
+DESCRIPTION:Focus: Aerospace, Science, Technology\nRegion: NA\nTags: Aerospace; Defense; Research; Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-2@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260206
+SUMMARY:Military Additive Manufacturing Summit & Technology Showcase
+LOCATION:Tampa, FL, USA
+DESCRIPTION:Focus: Military Additive Manufacturing & Defense Tech\nRegion: NA\nTags: Additive Manufacturing; Defense; Vertical
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260206
+SUMMARY:MD&M West
+LOCATION:Anaheim, CA, USA
+DESCRIPTION:Focus: Medical Device Development & Manufacturing\nRegion: NA\nTags: Vertical; Medical; Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-4@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260225
+SUMMARY:GlobalChem
+LOCATION:Washington, D.C., USA
+DESCRIPTION:Focus: Chemical Industry Production\nRegion: NA\nTags: Vertical; Materials; Chemical
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-5@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260227
+SUMMARY:Additive Manufacturing Strategies
+LOCATION:New York, NY, USA
+DESCRIPTION:Focus: AM Business, Market Data, Defense, Workforce\nRegion: NA\nTags: Additive Manufacturing; Strategy; Market Analysis; Workforce; Defense
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-6@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260313
+SUMMARY:LogiMAT
+LOCATION:Stuttgart, Germany
+DESCRIPTION:Focus: Logistics, Material Flow, Intralogistics\nRegion: EU\nTags: Logistics; Supply Chain; Automation
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-7@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260320
+SUMMARY:IPC Apex Expo
+LOCATION:Anaheim, CA, USA
+DESCRIPTION:Focus: Electronics Manufacturing (PCBs)\nRegion: NA\nTags: Electronics; PCB; Vertical
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-8@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+SUMMARY:American Manufacturing Summit
+LOCATION:Chicago, IL, USA
+DESCRIPTION:Focus: Strategy, Leadership, Operational Excellence\nRegion: NA\nTags: Strategy; Management; Leadership
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-9@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260320
+SUMMARY:Aerospace & Defense Supplier Summit
+LOCATION:Seattle, WA, USA
+DESCRIPTION:Focus: Aerospace & Defense Supply Chain\nRegion: NA\nTags: Aerospace; Defense; Supply Chain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-10@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260325
+SUMMARY:Manufacturing IT/OT Summit USA
+LOCATION:Everett, MA, USA
+DESCRIPTION:Focus: Smart Manufacturing & Industry 4.0 Integration\nRegion: NA\nTags: Industry 4.0; IT/OT Integration; Smart Factory; Digital Transformation
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-11@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260412
+SUMMARY:Automechanika Buenos Aires
+LOCATION:Buenos Aires, Argentina
+DESCRIPTION:Focus: Automotive Parts, Components, Repair\nRegion: LATAM\nTags: Automotive; Components; Machinery; LATAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-12@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260411
+SUMMARY:Manufacturing World Nagoya
+LOCATION:Nagoya, Japan
+DESCRIPTION:Focus: Design, Components, AM, DX (Regional)\nRegion: APAC\nTags: Asia; Components; Additive Manufacturing; Digital Transformation; Machinery
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-13@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+SUMMARY:AeroDef Manufacturing
+LOCATION:Boston, MA, USA
+DESCRIPTION:Focus: Aerospace and defense manufacturing\nRegion: NA\nTags: Aerospace; Defense; Fabrication; Vertical
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-14@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+SUMMARY:RAPID + TCT
+LOCATION:Boston, MA, USA
+DESCRIPTION:Focus: 3D printing and additive manufacturing\nRegion: NA\nTags: Additive Manufacturing; 3D Printing; Materials
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-15@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260418
+SUMMARY:INTERMOLD / Die & Mold Asia
+LOCATION:Osaka, Japan
+DESCRIPTION:Focus: Machine Tools, Tooling, Molds, CAD/CAM/CAE\nRegion: APAC\nTags: Asia; Machine Tools; Tooling; CAD/CAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-16@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Hannover Messe
+LOCATION:Hannover, Germany
+DESCRIPTION:Focus: Industrial Technology, Automation, Digitalization (Industry 4.0)\nRegion: EU\nTags: Automation; Industry 4.0; Digital Transformation; Robotics; Strategy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-17@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260423
+SUMMARY:North American Manufacturing Excellence Summit
+LOCATION:Houston, TX, USA
+DESCRIPTION:Focus: Innovative Strategies for Manufacturing Leadership\nRegion: NA\nTags: Strategy; Leadership; Excellence
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-18@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260424
+SUMMARY:IME South
+LOCATION:Charlotte, NC, USA
+DESCRIPTION:Focus: Manufacturing Expo (Regional)\nRegion: NA\nTags: Multi-Sector; Regional
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-19@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260507
+SUMMARY:SME FUSION
+LOCATION:Nashville, TN, USA
+DESCRIPTION:Focus: Workforce development and training strategies\nRegion: NA\nTags: Workforce; Strategy; Management
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-20@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:SelectUSA Investment Summit
+LOCATION:National Harbor, MD, USA
+DESCRIPTION:Focus: Investment, Manufacturing Policy\nRegion: NA\nTags: Strategy; Policy; Investment
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-21@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:Sensors Converge
+LOCATION:Santa Clara, CA, USA
+DESCRIPTION:Focus: Sensors, Measurement, IoT\nRegion: NA\nTags: IoT; Measurement; Sensors; Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-22@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260515
+SUMMARY:Advanced Semiconductor Manufacturing Conference
+LOCATION:Albany, NY, USA
+DESCRIPTION:Focus: Semiconductor Fabrication\nRegion: NA\nTags: Vertical; Semiconductor; Fabrication; Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-23@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260515
+SUMMARY:Australian Manufacturing Week (AMW)
+LOCATION:Brisbane, Australia
+DESCRIPTION:Focus: Multi-Sector Manufacturing\nRegion: APAC\nTags: Multi-Sector; Australia; Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-24@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260515
+SUMMARY:FABTECH Mexico
+LOCATION:Mexico City, Mexico
+DESCRIPTION:Focus: Fabrication, Welding, Finishing\nRegion: LATAM\nTags: Fabrication; Welding; Metalworking; Machinery; LATAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-25@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260606
+SUMMARY:BIEMH
+LOCATION:Bilbao, Spain
+DESCRIPTION:Focus: Machine Tool, Manufacturing\nRegion: EU\nTags: Machine Tools; Machinery; Metalworking
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-26@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260604
+SUMMARY:EPMA Seminars – Powder Metallurgy
+LOCATION:Lyon, France
+DESCRIPTION:Focus: Powder Metallurgy, Advanced Energy Solutions\nRegion: EU\nTags: Materials; Powder Metallurgy; Energy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-27@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+SUMMARY:FABTECH Canada
+LOCATION:Toronto, ON, Canada
+DESCRIPTION:Focus: Fabrication, Welding, Finishing\nRegion: NA\nTags: Fabrication; Welding; Metalworking; Machinery
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-28@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260624
+SUMMARY:HI-AM Conference
+LOCATION:Banff, AB, Canada
+DESCRIPTION:Focus: Holistic Innovation in Additive Manufacturing\nRegion: NA\nTags: Additive Manufacturing; Research; Innovation
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-29@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260626
+SUMMARY:Automate
+LOCATION:Chicago, IL, USA
+DESCRIPTION:Focus: Automation, Robotics, Motion Control\nRegion: NA\nTags: Automation; Robotics; Control Systems; Industry 4.0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-30@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+SUMMARY:CeMAT SOUTHEAST ASIA
+LOCATION:Melbourne, Australia
+DESCRIPTION:Focus: Logistics, Material Handling\nRegion: APAC\nTags: Logistics; Supply Chain; Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-31@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260701
+SUMMARY:Middle East Poultry Expo
+LOCATION:Riyadh, Saudi Arabia
+DESCRIPTION:Focus: Poultry Manufacturing & Supply Chain\nRegion: MEA\nTags: Vertical; Food Processing; Supply Chain; MEA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-32@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+SUMMARY:Manufacturing World Tokyo
+LOCATION:Tokyo Big Sight, Japan
+DESCRIPTION:Focus: Design, Components, AM, DX, Cybersecurity\nRegion: APAC\nTags: Asia; Components; Additive Manufacturing; Digital Transformation; Cybersecurity
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-33@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260716
+SUMMARY:Manufacturing Indaba
+LOCATION:Sandton, JHB, South Africa
+DESCRIPTION:Focus: African Manufacturing Policy and Investment\nRegion: MEA\nTags: Africa; Policy; Investment; Strategy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-34@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:International Conference on Robotics and Smart Manufacturing (ICROSMA)
+LOCATION:Nairobi, Kenya
+DESCRIPTION:Focus: Robotics and Smart Manufacturing (Research Focus)\nRegion: MEA\nTags: Africa; Robotics; Smart Factory; Research
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-35@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+SUMMARY:Powder Metallurgy and Additive Manufacturing of Titanium (PMAMTi)
+LOCATION:Taipei, Taiwan
+DESCRIPTION:Focus: Powder Metallurgy, AM (Titanium)\nRegion: APAC\nTags: Additive Manufacturing; Materials; Research; Asia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-36@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260920
+SUMMARY:IMTS 2026 (International Manufacturing Technology Show)
+LOCATION:Chicago, IL, USA
+DESCRIPTION:Focus: Machine Tools, Automation, Digital Transformation\nRegion: NA\nTags: Machine Tools; Automation; Robotics; Digital Transformation; Metalworking
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-37@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260927
+SUMMARY:EMO Hannover
+LOCATION:Hannover, Germany
+DESCRIPTION:Focus: Smart Manufacturing, Sustainable Engineering, Metalworking\nRegion: EU\nTags: Machine Tools; Metalworking; Smart Factory; Sustainability; Machinery
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-38@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+SUMMARY:Manufacturing World Osaka
+LOCATION:Osaka, Japan
+DESCRIPTION:Focus: Design, Components, AM, DX (Regional)\nRegion: APAC\nTags: Asia; Components; Additive Manufacturing; Digital Transformation; Machinery
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-39@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261013
+SUMMARY:BI-MU
+LOCATION:Milano, Italy
+DESCRIPTION:Focus: Machine Tool, Manufacturing\nRegion: EU\nTags: Machine Tools; Machinery; Metalworking
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-40@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:China International Industry Fair (CIIF)
+LOCATION:Shanghai, China
+DESCRIPTION:Focus: Automation, IT, Machinery, Equipment\nRegion: APAC\nTags: Asia; Automation; Machinery; IT/Digital; High Volume Production
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-41@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:FABTECH USA
+LOCATION:Las Vegas, NV, USA
+DESCRIPTION:Focus: Fabrication, Welding, Finishing\nRegion: NA\nTags: Fabrication; Welding; Metalworking; Machinery
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-42@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261029
+SUMMARY:EuroShop Middle East
+LOCATION:Dubai, U.A.E.
+DESCRIPTION:Focus: Retail Technology, Store Design, Refrigeration\nRegion: MEA\nTags: Retail; Logistics; Technology; MEA; Vertical
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-43@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+SUMMARY:SPS (Smart Production Solutions)
+LOCATION:Nuremberg, Germany
+DESCRIPTION:Focus: Smart Production Solutions, Digitalization\nRegion: EU\nTags: Smart Factory; Digital Transformation; Automation; Industry 4.0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-44@csv-to-cal
+DTSTAMP:20251111T230338Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261115
+SUMMARY:ISM 2026
+LOCATION:TBD (Global/Virtual)
+DESCRIPTION:Focus: Smart Manufacturing (Research)\nRegion: Global/Research\nTags: Industry 4.0; Smart Factory; Research
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
