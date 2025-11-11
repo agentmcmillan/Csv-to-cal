@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """
-Convert Events.csv to ICS (iCalendar) format
+Convert CSV file to ICS (iCalendar) format
+Usage: python csv_to_ics.py <input_csv> [output_ics]
 """
 
 import csv
 import re
+import sys
+import argparse
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -173,9 +176,44 @@ X-WR-TIMEZONE:UTC
 
 
 if __name__ == '__main__':
-    # Define paths
-    csv_file = Path(__file__).parent / 'Events.csv'
-    ics_file = Path(__file__).parent / 'Events.ics'
+    # Set up argument parser
+    parser = argparse.ArgumentParser(
+        description='Convert CSV file with events to ICS (iCalendar) format',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python csv_to_ics.py Events.csv
+  python csv_to_ics.py eventsV2.csv EventsV2.ics
+  python csv_to_ics.py /path/to/events.csv /path/to/output.ics
+        """
+    )
+
+    parser.add_argument('csv_file',
+                        help='Input CSV file path')
+    parser.add_argument('ics_file',
+                        nargs='?',
+                        help='Output ICS file path (optional, defaults to input name with .ics extension)')
+
+    args = parser.parse_args()
+
+    # Convert paths to Path objects
+    csv_path = Path(args.csv_file)
+
+    # Check if CSV file exists
+    if not csv_path.exists():
+        print(f"✗ Error: CSV file not found: {csv_path}")
+        sys.exit(1)
+
+    # Determine output file path
+    if args.ics_file:
+        ics_path = Path(args.ics_file)
+    else:
+        # Use same name as CSV but with .ics extension
+        ics_path = csv_path.with_suffix('.ics')
 
     # Convert CSV to ICS
-    csv_to_ics(csv_file, ics_file)
+    try:
+        csv_to_ics(csv_path, ics_path)
+    except Exception as e:
+        print(f"✗ Error converting file: {e}")
+        sys.exit(1)
